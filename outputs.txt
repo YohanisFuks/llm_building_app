@@ -1,0 +1,26 @@
+{
+    "AIMessage": {
+        "content": "Great choice! In Rome, there are many iconic attractions to visit. Here is a suggested itinerary for your 2-day trip:\n\nDay 1:\n1. Start your day by visiting the Colosseum, one of Rome's most famous landmarks. Be sure to book your tickets in advance to skip the lines.\n2. After the Colosseum, head to the Roman Forum and Palatine Hill, located nearby. These ancient ruins are a must-see for history buffs.\n3. Enjoy a leisurely lunch in the charming neighborhood of Trastevere. This area is known for its narrow cobblestone streets and authentic Roman cuisine.\n4. In the afternoon, visit the Pantheon, a well-preserved Roman temple dedicated to the gods.\n5. End your day at the Trevi Fountain, where you can toss a coin over your shoulder for good luck.\n\nDay 2:\n1. Begin your day at Vatican City, the smallest independent state in the world. Visit St. Peter's Basilica and the Vatican Museums, home to the Sistine Chapel.\n2. After exploring the Vatican, cross the Tiber River to visit Castel Sant'Angelo, a historic fortress with stunning views of the city.\n3. Enjoy a traditional Italian lunch in the Piazza Navona, a lively square surrounded by Baroque architecture.\n4. Spend your afternoon wandering through the picturesque streets of the Campo de' Fiori and Piazza di Spagna neighborhoods, where you can shop for souvenirs and enjoy gelato.\n5. For your last evening in Rome, head to the Piazza del Popolo for a sunset view over the city, followed by a delicious dinner at a local trattoria.\n\nThis itinerary should give you a good overview of Rome's most famous sites and neighborhoods. Enjoy your trip!",
+        "additional_kwargs": {},
+        "response_metadata": {
+            "token_usage": {
+                "completion_tokens": 368,
+                "prompt_tokens": 42,
+                "total_tokens": 410,
+                "completion_tokens_details": {
+                    "audio_tokens": null,
+                    "reasoning_tokens": 0
+                },
+                "prompt_tokens_details": {
+                    "audio_tokens": null,
+                    "cached_tokens": 0
+                }
+            },
+            "model_name": "gpt-3.5-turbo",
+            "system_fingerprint": null,
+            "finish_reason": "stop",
+            "logprobs": null
+        },
+        "id": "run-6d02dd7f-e0bb-49a8-a2a6-473b9b861fe7-0"
+    }
+}
